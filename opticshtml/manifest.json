@@ -1,0 +1,20 @@
+{
+  "name": "Optics Bench Physlet",
+  "short_name": "Optics Bench",
+  "description": "The Optics Bench Physlet was developed by the Open Source Physics Project",
+  "icons": [{
+    "src": "./icon/icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },{
+    "src": "./icon/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "start_url": "/osp/pwa/opticsbench/",
+  "scope": "/osp/pwa/opticsbench/",
+  "display": "standalone",
+  "background_color": "#488aff",
+  "theme_color": "#488aff",
+  "orientation": "any"
+}
